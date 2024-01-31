@@ -162,7 +162,7 @@ export const projects = [
     ],
     category: "web app",
     github: "https://github.com/Thinusan/hangman/tree/main",
-    webapp: "https://github.com/Thinusan/hangman/tree/main",
+    webapp: "https://65b48bcbde5e5f527c2a7332--eclectic-taiyaki-670275.netlify.app/",
   },
   {
     id: 2,
@@ -175,7 +175,7 @@ export const projects = [
     tags: ["HTML", "CSS", "JavaScript"],
     category: "web app",
     github: "https://github.com/Thinusan/piano",
-    webapp: "https://github.com/Thinusan/piano",
+    webapp: "https://65b48e2141423d5120507b38--funny-trifle-ae25c7.netlify.app/",
     
   },
   {
@@ -185,7 +185,7 @@ export const projects = [
     description:
       "I have created an online food ordering system for an rasturant ",
     image:
-      "",
+      "https://github.com/Thinusan/ordering/blob/main/Screenshot%20(15).png?raw=true",
     tags: [
       "php",
       "MySQL",
